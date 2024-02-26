@@ -13,7 +13,7 @@ export default function Tools() {
         <h3 className="text-sm font-light">Best Choice</h3>
       </div>
 
-      <div className="flex gap-2 bg-white py-2 px-4 mt-3">
+      <div className="flex gap-2 bg-white py-2 px-4 mt-3 xl:gap-10">
         <h2 className="text-[#626E79] -ml-7">1</h2>
         <div className="flex flex-col gap-2 items-center mt-5">
           <img className="w-36" src="/image.png" alt="image" />
@@ -64,7 +64,7 @@ export default function Tools() {
         <h3 className="text-sm font-light">Best Value</h3>
       </div>
 
-      <div className="flex mt-3 gap-2 bg-white py-2 px-4">
+      <div className="flex mt-3 gap-2 bg-white py-2 px-4 xl:gap-10">
         <h2 className="text-[#626E79] bg-white rounded-full border border-gray-300 w-fit h-fit px-2 -ml-10">
           2
         </h2>
@@ -112,7 +112,7 @@ export default function Tools() {
         </div>
       </div>
 
-      <div className="flex mt-10 gap-2 bg-white py-2 px-4">
+      <div className="flex mt-10 gap-2 bg-white py-2 px-4 xl:gap-10">
         <h2 className="text-[#626E79] bg-white rounded-full border border-gray-300 w-fit h-fit px-2 -ml-10">
           3
         </h2>
@@ -159,7 +159,7 @@ export default function Tools() {
         </div>
       </div>
 
-      <div className="flex mt-10 gap-2 bg-white py-2 px-4">
+      <div className="flex mt-10 gap-2 bg-white py-2 px-4 xl:gap-10">
         <h2 className="text-[#626E79] bg-white rounded-full border border-gray-300 w-fit h-fit px-2 -ml-10">
           4
         </h2>
